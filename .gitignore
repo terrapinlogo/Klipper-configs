@@ -3,3 +3,4 @@ adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
 .moonraker.conf.bkp
 printer-*_*.cfg
+moonraker.conf.backup
